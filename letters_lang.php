@@ -1,7 +1,7 @@
 <?php
 
 
-БЛАБЛАБЛА
+БЛАБЛАБЛАБЛАБЛАБЛА
 $lang['letter_password_changed'] = 'Ваш пароль <br> был изменен';
 $lang['letter_your_data'] = 'Ваши данные для учётной записи ';
 $lang['letter_was_changed'] = 'были изменены:';
